@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
+    <!-- Required meta tags --> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Book Finder</title>
@@ -23,7 +23,7 @@
                     <input id="author_name" name="author_name" type="text" class="form-control" placeholder="Search Author">
                 </div>
                 <div class="col-sm-4 ">
-                    <button type="submit" class="btn btn-primary mb-3">Confirm identity</button>
+                    <button type="submit" class="btn btn-primary mb-3">Search</button>
                 </div>
             </div>
         </form>
